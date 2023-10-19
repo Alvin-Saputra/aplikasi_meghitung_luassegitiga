@@ -4,8 +4,8 @@ void main() {
   runApp(MaterialApp(
     home: Scaffold(
       appBar: AppBar(
-        backgroundColor: Color.fromARGB(255, 191, 219, 32),
-        title: Text("Kalkulator Luas Segitiga"),
+        backgroundColor: Color.fromARGB(255, 90, 17, 7),
+        title: Text("Kalkulator Luas Segitiga V2"),
         centerTitle: true,
       ),
       body: LuasSegitigaCalculator(),
